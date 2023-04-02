@@ -1,0 +1,6 @@
+C:\Users\Hp Elitebook\Desktop\Backend\Asp.net - intro\Asp.net -intro\Asp.net -intro\obj\Debug\net6.0\Asp.net -intro.csproj.AssemblyReference.cache
+C:\Users\Hp Elitebook\Desktop\Backend\Asp.net - intro\Asp.net -intro\Asp.net -intro\obj\Debug\net6.0\Asp.net -intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\Desktop\Backend\Asp.net - intro\Asp.net -intro\Asp.net -intro\obj\Debug\net6.0\Asp.net -intro.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\Desktop\Backend\Asp.net - intro\Asp.net -intro\Asp.net -intro\obj\Debug\net6.0\Asp.net -intro.AssemblyInfo.cs
+C:\Users\Hp Elitebook\Desktop\Backend\Asp.net - intro\Asp.net -intro\Asp.net -intro\obj\Debug\net6.0\Asp.net -intro.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\Desktop\Backend\Asp.net - intro\Asp.net -intro\Asp.net -intro\obj\Debug\net6.0\Asp.net -intro.MvcApplicationPartsAssemblyInfo.cache
